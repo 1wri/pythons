@@ -16,6 +16,14 @@ python程序设计题库 Python经典试题与答案 Python期末试题与解析
 #### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
 
 
+### 扫码关注公众号 获取更多项目和编程资料
+
+关注公众号：小猿天天学习
+
+公众号ID：xzzard
+
+![img.png](imgs%2Fimg.png)
+
 ![4.jpg](imgs%2F4.jpg)
 ![5.jpg](imgs%2F5.jpg)
 ![8.jpg](imgs%2F8.jpg)
